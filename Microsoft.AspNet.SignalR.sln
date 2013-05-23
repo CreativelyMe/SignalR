@@ -84,6 +84,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.AspNet.SignalR.Sa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.AspNet.SelfHost.Samples", "samples\Microsoft.AspNet.SelfHost.Samples\Microsoft.AspNet.SelfHost.Samples.csproj", "{5D69B6BE-062B-408D-913E-5CD2F21D5D17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.AspNet.SignalR.Client.Portable", "src\Microsoft.AspNet.SignalR.Client.Portable\Microsoft.AspNet.SignalR.Client.Portable.csproj", "{47B3F28E-76DB-40BD-A8F5-800CF08D84ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
